@@ -19,6 +19,10 @@
 [![01-intro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidbetancur8/Biomedica/blob/master/ds_2021/03-modelacion/06-nlp2.ipynb)
 
 
+## Proyecto #2
+https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+Fecha de entrega: 13 de Octubre
+
 # Ejercicios
 
 ## titanic
