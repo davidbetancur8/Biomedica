@@ -36,6 +36,6 @@ Notebook con ejemplo de creacion de grafo con los dramas politicos de Colombia
 [![01-intro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidbetancur8/Biomedica/blob/master/ds_2021/03-modelacion/drama_grafo.ipynb)
 
 ## Proyecto final
-Fecha de entrega, por definir
+Fecha de entrega, 27 de Octubre
 
 [![01-intro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidbetancur8/Biomedica/blob/master/ds_2021/03-modelacion/emociones_en_twits.ipynb)
